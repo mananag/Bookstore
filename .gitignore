@@ -1,3 +1,7 @@
 .idea
 # Environments
 venv/
+*.pyc
+build
+*.db
+frontend.spec
